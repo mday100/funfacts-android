@@ -1,0 +1,5 @@
+/Users/apple/AndroidStudioProjects/FunFacts/app/build/intermediates/classes/debug
+/Users/apple/AndroidStudioProjects/FunFacts/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-cfde98668f6229028b66e54bd8fbce2b7b03a289.jar
+/Users/apple/AndroidStudioProjects/FunFacts/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-3860b2a206493d1321428c4d2b11ef59b908a8b7.jar
+/Users/apple/AndroidStudioProjects/FunFacts/app/build/intermediates/pre-dexed/debug/classes-9c1b64fc6fdbf862f431b080820493b20839a592.jar
+/Users/apple/AndroidStudioProjects/FunFacts/app/build/intermediates/pre-dexed/debug/classes-6ba042c99d540c3997dda9e4cf744772e00b8187.jar
