@@ -3,12 +3,16 @@ package com.unlimitedday.funfacts;
 import android.graphics.Color;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class FunFactsActivity extends ActionBarActivity {
+
+    public static final String TAG = FunFactsActivity.class.getSimpleName();
 
     private FactBook mFactBook = new FactBook();
     private ColorWheel mColorWheel = new ColorWheel();
@@ -36,6 +40,9 @@ public class FunFactsActivity extends ActionBarActivity {
             }
         };
         showFactButton.setOnClickListener(listener);
+
+        //Toast.makeText(this, "Yay! Our activity was created!", Toast.LENGTH_LONG).show();
+        Log.d(TAG, "We're logging from the OnCreate() method!");
     }
 
 }
